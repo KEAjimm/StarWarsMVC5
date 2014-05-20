@@ -7,5 +7,7 @@ namespace StarWars.Controllers
 {
     public class boo
     {
+        public int x = 10;
+        
     }
 }
